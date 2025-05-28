@@ -1,9 +1,3 @@
-# Analemma
-
-Here's a more formal and detailed version of your `README.md`, written in English and structured for a GitHub repository. It includes explanations of the physical concepts, code structure, and dependencies, formatted properly in Markdown.
-
----
-
 # Analemma Simulation and Image Overlay
 
 This project simulates the **analemma**—the figure-eight-shaped path the Sun traces in the sky when observed at the same time every day over the course of a year. The code overlays this simulated path onto real photographs taken from specific locations to compare the theoretical prediction with observational data.
